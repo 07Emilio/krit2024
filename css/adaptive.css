@@ -1,0 +1,260 @@
+@media (max-width: 970px) {
+    .general {
+        font-size: 46px;
+    }
+
+    .additional {
+        font-size: 33px;
+    }
+
+    .epigraph {
+        font-size: 20px;
+    }
+
+    .KRIT {
+        font-size: 18px
+    }
+
+    .Wonders {
+        font-size: 21px;
+    }
+    .Culture {
+        font-size: 21px;
+    }
+    .About {
+        font-size: 21px;
+    }
+    .Sport {
+        font-size: 21px;
+    }
+    .Turism {
+        font-size: 21px;
+    }
+    
+    h2 {
+        font-size: 29px;
+    }
+
+    h4 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 796px) {
+    
+    .KRIT {
+        font-size: 14px;
+    }
+
+    .general {
+        font-size: 35px;
+    }
+
+    .additional {
+        font-size: 25px;
+    }
+
+    .epigraph {
+        font-size: 16px;
+    }
+
+    .text {
+        margin-left: 20px;
+        margin-right: 10px;
+    }
+
+    .buttons {
+        margin-right: 20px;
+        margin-left: 10px;
+    }
+
+    .Wonders {
+        font-size: 15px;
+    }
+    .Culture {
+        font-size: 15px;
+    }
+    .About {
+        font-size: 15px;
+    }
+    .Sport {
+        font-size: 15px;
+    }
+
+    .Turism {
+        font-size: 15px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 24px;
+    }
+
+    h4 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 625px) {
+    .general {
+        font-size: 35px;
+    }
+
+    .additional {
+        font-size: 25px;
+    }
+
+    .epigraph {
+        font-size: 16px;
+    }
+
+    .Wonders {
+        font-size: 15px;
+    }
+    .Culture {
+        font-size: 15px;
+    }
+    .About {
+        font-size: 15px;
+    }
+    .Sport {
+        font-size: 15px;
+    }
+
+    .Turism {
+     font-size: 15px;   
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h4 {
+        font-size: 19px;
+    }
+}
+
+@media (max-width: 557px) {
+
+    .KRIT {
+        font-size: 11px;
+    }
+    
+    .general {
+        font-size: 29px;
+    }
+
+    .additional {
+        font-size: 20px;
+    }
+
+    .epigraph {
+        font-size: 13px;
+    }
+
+    .text {
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .buttons {
+        margin-right: 10px;
+        margin-left: 5px;
+    }
+
+    .Wonders {
+        font-size: 15px;
+    }
+    .Culture {
+        font-size: 15px;
+    }
+    .About {
+        font-size: 15px;
+    }
+    .Sport {
+        font-size: 15px;
+    }
+
+    .Turism {
+        font-size: 15px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 19px;
+    }
+    
+    h4 {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 467px) {
+    .KRIT {
+        font-size: 9px;
+    }
+
+    .general {
+        font-size: 19px;
+    }
+
+    .additional {
+        font-size: 13px;
+    }
+
+    .epigraph {
+        font-size: 9px;
+    }
+
+    .text {
+        margin-left: 5px;
+    }
+
+    .buttons {
+        margin-left: 5px;
+    }
+
+    .Wonders {
+        font-size: 10px;
+    }
+    .Culture {
+        font-size: 10px;
+    }
+    .About {
+        font-size: 10px;
+    }
+    .Sport {
+        font-size: 10px;
+    }
+
+    .Turism {
+        font-size: 10px;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width: 360px) {
+    .KRIT {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 478px) {
+    h2 {
+        font-size: 17px;
+    }
+}
+
