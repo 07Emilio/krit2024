@@ -18,19 +18,23 @@
     .Wonders {
         font-size: 21px;
     }
+
     .Culture {
         font-size: 21px;
     }
+
     .About {
         font-size: 21px;
     }
+
     .Sport {
         font-size: 21px;
     }
+
     .Turism {
         font-size: 21px;
     }
-    
+
     h2 {
         font-size: 29px;
     }
@@ -41,7 +45,7 @@
 }
 
 @media (max-width: 796px) {
-    
+
     .KRIT {
         font-size: 14px;
     }
@@ -71,12 +75,15 @@
     .Wonders {
         font-size: 15px;
     }
+
     .Culture {
         font-size: 15px;
     }
+
     .About {
         font-size: 15px;
     }
+
     .Sport {
         font-size: 15px;
     }
@@ -88,6 +95,7 @@
     h1 {
         font-size: 40px;
     }
+
     h2 {
         font-size: 24px;
     }
@@ -113,22 +121,29 @@
     .Wonders {
         font-size: 15px;
     }
+
     .Culture {
         font-size: 15px;
     }
+
     .About {
         font-size: 15px;
     }
+
     .Sport {
         font-size: 15px;
     }
 
     .Turism {
-     font-size: 15px;   
+        font-size: 15px;
     }
 
     h2 {
         font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
     }
 
     h4 {
@@ -141,7 +156,7 @@
     .KRIT {
         font-size: 11px;
     }
-    
+
     .general {
         font-size: 29px;
     }
@@ -167,12 +182,15 @@
     .Wonders {
         font-size: 15px;
     }
+
     .Culture {
         font-size: 15px;
     }
+
     .About {
         font-size: 15px;
     }
+
     .Sport {
         font-size: 15px;
     }
@@ -188,7 +206,7 @@
     h2 {
         font-size: 19px;
     }
-    
+
     h4 {
         font-size: 17px;
     }
@@ -222,12 +240,15 @@
     .Wonders {
         font-size: 10px;
     }
+
     .Culture {
         font-size: 10px;
     }
+
     .About {
         font-size: 10px;
     }
+
     .Sport {
         font-size: 10px;
     }
@@ -236,7 +257,15 @@
         font-size: 10px;
     }
 
+    h1 {
+        font-size: 24px;
+    }
+
     h2 {
+        font-size: 16px;
+    }
+
+    h3 {
         font-size: 16px;
     }
 
@@ -254,7 +283,6 @@
 
 @media (max-width: 478px) {
     h2 {
-        font-size: 17px;
+        font-size: 14px;
     }
 }
-
