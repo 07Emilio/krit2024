@@ -80,7 +80,7 @@ body {
 }
 
 .header {
-    background: url(/media/image1.jpg) no-repeat center top / cover;
+    background: url(../media/image1.jpg) no-repeat center top / cover;
     display: flex;
     align-items: center;
     justify-content: center;
