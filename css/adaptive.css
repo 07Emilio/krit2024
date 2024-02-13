@@ -103,6 +103,10 @@
     h4 {
         font-size: 22px;
     }
+
+    .f__home {
+        font-size: 21px;
+    }
 }
 
 @media (max-width: 625px) {
@@ -197,6 +201,10 @@
 
     .Turism {
         font-size: 15px;
+    }
+
+    .f__home {
+        font-size: 17px;
     }
 
     h1 {
