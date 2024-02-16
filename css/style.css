@@ -359,6 +359,12 @@ h4 {
     color: black;
 }
 
+.Turism:hover {
+    transition: 0.35s ease-in-out;
+    background: #ffffff;
+    color: black;
+}
+
 .Sport {
     font-size: 28px;
     text-align: center;
